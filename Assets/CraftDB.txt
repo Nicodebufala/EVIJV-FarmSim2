@@ -1,0 +1,21 @@
+___
+Table (Wood)
+WoodenTable
+- 8 Wood
+___
+Chair (Wood)
+WoodenChair
+- 2 Wood
+___
+Table (Stone)
+StoneTable
+- 8 Stone
+___
+Chair (Stone)
+StoneChair
+- 2 Stone
+___
+Silo (Stone)
+StoneSilo
+- 50 Stone
+- 5 Wood
